@@ -1,7 +1,7 @@
 # Google-Spreadsheet-Automation
 JavaScript code used in Google Docs and Google Spreadsheets
 
-##vocabulary-processor.js
+##Script vocabulary-processor.js
 This script is a tool that helps me studying new words in various languages. 
 
 This script provides the following functionality: 
