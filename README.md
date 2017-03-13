@@ -6,7 +6,7 @@ This script is a tool that helps me studying new words in various languages.
 
 This script provides the following functionality: 
 
-1. pull URLs from cells in a table
+1. pull URLs from cells in a table (the URLS are links to newspaper articles and blog posts)
 2. get the content of the URL by doing an HTTP request
 3. parse the content and ret rid of all characters not part of the latin or Cyrillic alphabet
 4. extract words 
